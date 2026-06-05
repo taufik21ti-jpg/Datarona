@@ -1,0 +1,54 @@
+{
+  "manga_id": "mc-adpr-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Pecundang Pembunuh Naga Kembali",
+  "status": "Ongoing",
+  "author": "Jang Dam",
+  "artist": "Kaze",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Dahulu kala, umat manusia hampir musnah oleh invasi ras naga. Setelah kehilangan segalanya, sang protagonis berjuang hingga akhir hayatnya untuk membunuh Raja Naga. Tepat ketika kematian menjemputnya setelah berhasil menebas sang Raja, ia tiba-tiba terbangun di masa lalu saat ia masih menjadi kadet di Akademi Hunter. Dengan memori dan pengalaman dari kehidupan sebelumnya, ia bersumpah untuk mengubah takdir dan membantai naga dari akarnya.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/mc-adpr-001.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1.0,
+      "chapter_title": "Kematian Sang Raja Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-001/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-001/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2.0,
+      "chapter_title": "Kembali ke Akademi",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-002/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3.0,
+      "chapter_title": "Ujian Pertama",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-003/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-003/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-003/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-003/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/mc-adpr-001/ch-003/005.jpg"
+      ]
+    }
+  ]
+}
